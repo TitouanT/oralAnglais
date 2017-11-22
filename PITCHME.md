@@ -1,17 +1,28 @@
-# Quantum Computers
-
----
-
-# What is it ?
+# AlphaGo
 
 +++
 
-No really, what IS it ?
+An IA that plays Go
+---
+
+# What is the game of Go ?
 
 +++
 
-# I don't know...
++ 2 players
++ 1 grid (9x9, 13x13, 19x19)
++ some stones
 
 ---
+
+# Why is it a complex problem ?
+
++++
+
+start counting the atoms in the universe
+
+---
+
+
 
 # K, Bye !
