@@ -1,4 +1,4 @@
-# Quantum Computer
+# Quantum Computers
 
 ---
 
@@ -6,7 +6,7 @@
 
 +++
 
-# No really, what IS it ?
+No really, what IS it ?
 
 +++
 
