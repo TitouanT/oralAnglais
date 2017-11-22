@@ -1,1 +1,17 @@
-+ step one: find a subject
+# Quantum Computer
+
+---
+
+# What is it ?
+
++++
+
+# No really, what IS it ?
+
++++
+
+# I don't know...
+
+---
+
+# K, Bye !
