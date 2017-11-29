@@ -56,5 +56,23 @@ no brute force solution possible ! (unlike deepblue)
 In march 2016
 DeepMind AlphaGo beats Lee Sedol
 
++++
+
+# How does it work ?
+
++++
+
+Alpha Go beat the world champion in Go by using **two neural network** and a **Montecarlo Tree Search**
+
+Networks trained on human play (supervised approach).
+
++++
+
+**AlphaGo zero** use **1 neural network** and a **Montecarlo Tree Search**.
+
+It only trained by playing with itself.
+
+
+
 
 # K, Bye !
