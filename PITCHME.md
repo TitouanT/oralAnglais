@@ -33,7 +33,7 @@ Ends on players decision
 
 ---
 
-# Why is it a complex problem ?
+# A complex problem ?
 
 > It may be a hundred years before a computer beats human at Go -- maybe even longer
 
@@ -73,6 +73,6 @@ Networks trained on human play (supervised approach).
 It only trained by playing with itself.
 
 
+---
 
-
-# K, Bye !
+## Thanks !
